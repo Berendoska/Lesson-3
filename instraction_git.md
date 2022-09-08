@@ -104,3 +104,5 @@ git branch branch name
     git merge 
 
 ## Elfktyysq
+
+Удаленные репозитории нужны для совместной работы
