@@ -102,3 +102,5 @@ git branch branch name
 Для того , чтобы влить ветку в текущую нужно использовать команду 
 
     git merge 
+
+## Elfktyysq
